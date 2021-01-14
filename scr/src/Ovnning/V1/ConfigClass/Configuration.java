@@ -1,4 +1,4 @@
-package Ovnning.V1;
+package Ovnning.V1.ConfigClass;
 
 import java.io.File;
 import java.io.FileWriter;
