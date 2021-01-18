@@ -5,4 +5,8 @@ This is Repository for exercising  in System Architect YA
 
 [Singelton](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples#eager-initialization)
 
+[Factory Pattern](https://www.journaldev.com/1392/factory-design-pattern-in-java)
+
+[ Abstract Factory Pattern](https://www.journaldev.com/1418/abstract-factory-design-pattern-in-java)
+
 [Usefull-Link](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
