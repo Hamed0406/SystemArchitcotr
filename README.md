@@ -11,4 +11,8 @@ This is Repository for exercising  in System Architect YA
 
 5. [ Abstract Factory Pattern](https://www.journaldev.com/1418/abstract-factory-design-pattern-in-java)
 
+7. [Builder Pattern](https://www.journaldev.com/1425/builder-design-pattern-in-java)
+
+9. [Prototype Pattern](https://www.journaldev.com/1440/prototype-design-pattern-in-java)
+
 [Usefull-Link](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
